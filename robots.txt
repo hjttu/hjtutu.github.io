@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hjtutu.github.io/al-folio/sitemap.xml
+Sitemap: https://hjttu.github.io/hjtutu.github.io/sitemap.xml
