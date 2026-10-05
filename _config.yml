@@ -4,7 +4,7 @@
 
 title: Jiatao Hu # the website title (if blank, full name will be used instead)
 first_name: Jiatao
-middle_name: 
+middle_name:
 last_name: Hu
 contact_note: >
   For research inquiries, please contact me by email.
@@ -722,3 +722,4 @@ jsonresume:
   - languages
   - interests
   - references
+
